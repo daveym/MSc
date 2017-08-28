@@ -4,11 +4,12 @@ Code and data used for MSc in Applied Cyber Security 2017
 **Availability Prototype Files**
 
 •	 Data – 3 CSV files were generated from Synthea as part of the prototype, namely:
-o	Normal – containing 16,164 patients (name, address, birthdate, gender, race, ethnicity etc.)
 
-o	Anomaly - containing 36,447 patients
+  o	Normal – containing 16,164 patients (name, address, birthdate, gender, race, ethnicity etc.)
 
-o	Combined – a dataset containing 2 x normal and 1 x anomalous set of 68,775 patients.
+  o	Anomaly - containing 36,447 patients
+
+  o	Combined – a dataset containing 2 x normal and 1 x anomalous set of 68,775 patients.
 
 •	HL7 messages – a zip file containing 68,775 pre-generated A31 HL7 messages.
 
