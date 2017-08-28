@@ -2,6 +2,7 @@
 Code and data used for MSc in Applied Cyber Security 2017
 
 **Availability Prototype Files**
+
 •	 Data – 3 CSV files were generated from Synthea as part of the prototype, namely:
 o	Normal – containing 16,164 patients (name, address, birthdate, gender, race, ethnicity etc.)
 
@@ -22,6 +23,7 @@ o	Combined – a dataset containing 2 x normal and 1 x anomalous set of 68,775 p
 •	HL7toDB0.3.vmd – Iguana (Chameleon) file used to map out the database table structure in SQLite. Used within the Iguana Persistmessage.lua script.
 
 **Confidentiality Prototype Files**
+
 •	FHIR Data – appointment (12,000 items), observation (10,800 items), encounter (13,200 items), patient (1200 items) and practitioner (70 items) generated from Velocity Data Loader. 
 
 •	Conf-training.py – Python application used to Train the KNN, SVN and MNB models.
